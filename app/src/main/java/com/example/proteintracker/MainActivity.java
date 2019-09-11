@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
                 b.putString("helpString", myEditText.getText().toString());
                 intent.putExtras(b);
                 startActivity(intent);
+                //tes
 
             }
         });
